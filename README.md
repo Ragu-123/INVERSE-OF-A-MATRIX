@@ -31,9 +31,7 @@ print(inverse)
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/113915622/229394722-c932649f-eab2-4870-985a-4eab4b95f9b3.png)
-
-
+![image](https://user-images.githubusercontent.com/113915622/229395240-0385807d-2b26-440d-83a8-326162c529b1.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
